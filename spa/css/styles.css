@@ -1,0 +1,22 @@
+/* HomeSense - Custom Styles */
+
+body {
+  background-color: #f5f7fa;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
+
+/* Make the main content look cleaner */
+main {
+  min-height: 80vh;
+}
+
+/* Small visual improvement for future cards */
+.card {
+  border: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  border-radius: 12px;
+}
